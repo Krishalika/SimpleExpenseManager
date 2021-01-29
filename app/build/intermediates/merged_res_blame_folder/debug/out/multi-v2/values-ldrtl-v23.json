@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Sem4 me\\Database Systems\\SimpleExpenseManager\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+            "map": [
+                {
+                    "source": "F:\\Sem4 me\\Database Systems\\project\\caches\\transforms-2\\files-2.1\\2002d57da85f61b8d2775325100d39cd\\appcompat-v7-23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "240",
+                        "endColumns": "112",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
