@@ -84,13 +84,13 @@ public class DatabaseHandler extends SQLiteOpenHelper {
     public Account getAccount(String accountNo) throws InvalidAccountException {
         SQLiteDatabase db = this.getReadableDatabase();
         String [] accNum = {accountNo} ;
-        Cursor res = db.rawQuery( "SELECT * FROM "+ table_account +" WHERE accountNo = ?", accNum );
+        Cursor cursor = db.rawQuery( "SELECT * FROM "+ table_account +" WHERE accountNo = ?", accNum );
 
-        if (res.moveToFirst()){
-            String accountNum = res.getString(0);
-            String bankName = res.getString(1);
-            String accountHolderName = res.getString(2);
-            Double balance = res.getDouble(3);
+        if (cursor.moveToFirst()){
+            String accountNum = cursor.getString(0);
+            String bankName = cursor.getString(1);
+            String accountHolderName = cursor.getString(2);
+            Double balance = cursor.getDouble(3);
             Account account = new Account(accountNum,bankName,accountHolderName,balance);
             return account;
         }
@@ -148,12 +148,12 @@ public class DatabaseHandler extends SQLiteOpenHelper {
         try {
             while(cursor.isAfterLast() == false) {
                 String account_no = cursor.getString(0);
-                String expense_type_db = cursor.getString(1);
+                String expType = cursor.getString(1);
                 Double amount = cursor.getDouble(2);
                 Date date = new SimpleDateFormat("dd/mm/yyyy").parse(cursor.getString(3));
 
                 ExpenseType expenseType = ExpenseType.EXPENSE;
-                if(expense_type_db.equals("INCOME")){
+                if(expType.equals("INCOME")){
                     expenseType = ExpenseType.INCOME;
                 }
                 Transaction transaction = new Transaction(date,account_no,expenseType,amount);
@@ -177,9 +177,9 @@ public class DatabaseHandler extends SQLiteOpenHelper {
                 Double amount = cursor.getDouble(2);
 
                 Date date = new SimpleDateFormat("dd/mm/yyyy").parse(cursor.getString(3));
-                String expense_type_db = cursor.getString(1);
+                String expType = cursor.getString(1);
                 ExpenseType expenseType = ExpenseType.EXPENSE;
-                if (expense_type_db.equals("INCOME")) {
+                if (expType.equals("INCOME")) {
                     expenseType = ExpenseType.INCOME;
                 }
                 Transaction transaction = new Transaction(date, accNo, expenseType, amount);
