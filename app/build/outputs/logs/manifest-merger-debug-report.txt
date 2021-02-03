@@ -1,32 +1,32 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
 MERGED from [com.android.support:design:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\f850805d2662d4d6408904ffa56ae88b\design-23.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\2002d57da85f61b8d2775325100d39cd\appcompat-v7-23.1.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:recyclerview-v7:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\5701120f4906e535a76b18b29c442215\recyclerview-v7-23.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-v4:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\32e16fe690144a5c14560ed9f13e3c76\support-v4-23.1.1\AndroidManifest.xml:17:1-24:12
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
 	package
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:19:11-59
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:19:11-59
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:1-39:12
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:18:11-69
 application
-ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:21:5-37:19
+ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:21:5-37:19
 MERGED from [com.android.support:design:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\f850805d2662d4d6408904ffa56ae88b\design-23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\f850805d2662d4d6408904ffa56ae88b\design-23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\2002d57da85f61b8d2775325100d39cd\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
@@ -34,37 +34,37 @@ MERGED from [com.android.support:appcompat-v7:23.1.1] F:\Sem4 me\Database System
 MERGED from [com.android.support:support-v4:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\32e16fe690144a5c14560ed9f13e3c76\support-v4-23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\32e16fe690144a5c14560ed9f13e3c76\support-v4-23.1.1\AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:25:9-35
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:25:9-35
 	android:label
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:24:9-41
 	android:icon
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:26:9-40
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:26:9-40
 activity#lk.ac.mrt.cse.dbs.simpleexpensemanager.ui.MainActivity
-ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:27:9-36:20
+ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:27:9-36:20
 	android:label
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:29:13-45
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:29:13-45
 	android:theme
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:30:13-56
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:28:13-44
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:28:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:31:13-35:29
+ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN
-ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:17-68
+ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:17-68
 	android:name
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:25-66
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:32:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:34:17-76
+ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:34:17-76
 	android:name
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml:34:27-74
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml:34:27-74
 uses-sdk
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:design:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\f850805d2662d4d6408904ffa56ae88b\design-23.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:design:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\f850805d2662d4d6408904ffa56ae88b\design-23.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\2002d57da85f61b8d2775325100d39cd\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
@@ -73,13 +73,13 @@ MERGED from [com.android.support:recyclerview-v7:23.1.1] F:\Sem4 me\Database Sys
 MERGED from [com.android.support:recyclerview-v7:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\5701120f4906e535a76b18b29c442215\recyclerview-v7-23.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\32e16fe690144a5c14560ed9f13e3c76\support-v4-23.1.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.1.1] F:\Sem4 me\Database Systems\project\caches\transforms-2\files-2.1\32e16fe690144a5c14560ed9f13e3c76\support-v4-23.1.1\AndroidManifest.xml:20:5-43
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		ADDED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
-		INJECTED from F:\Sem4 me\Database Systems\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		ADDED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Sem4 me\Database Systems\New folder\SimpleExpenseManager\app\src\main\AndroidManifest.xml
